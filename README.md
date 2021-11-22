@@ -28,7 +28,7 @@ Um exemplo de entrada `stdin.txt` está presente na pasta do projeto. Se trata d
 uma lista de processos, onde cada linha representa um processo e a primeira
 coluna representa a data de criação do processo, a segunda coluna representa a
 duração do processo e a terceira representa a prioridade do processo, esta última
-não é utilizada no algoritmo.
+não é utilizada no algoritmo. 
 
 Compilar o arquivo
 
