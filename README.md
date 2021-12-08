@@ -1,7 +1,7 @@
 # FCFS - First Come, First Served
 
 Este projeto apresenta uma implementação do algoritmo de escalonamento FCFS
-contruído com a liguagem C.
+construído com a linguagem C.
 
 O trabalho compõe requisto parcial da disciplina ECOS01 - Sistema Operacionais
 do curso Engenharia de Computação da Universidade Federal de Itajubá.
